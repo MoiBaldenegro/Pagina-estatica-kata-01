@@ -1,0 +1,51 @@
+*{
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+}
+
+.header__nav{
+	background-color: purple;
+	padding: 1em;	
+}
+.header__a00{
+	color: whitesmoke;
+	position: relative;
+	left: 45em;
+	margin: 1em;
+	font-size: 1.08em;
+	padding: 1em;
+}
+.section__h1{
+	position: relative;
+	left: 2em;
+	top: 1.5em;
+	font-size: 6em;
+	text-shadow: 2px 1px 1px #000;
+	color: purple;
+}
+.section__h2{
+	position: relative;
+	top: 6em;
+	text-align: justify;
+	left: 8.3em;
+	text-shadow: 1px 1px 1px #000;
+	color: purple;
+
+}
+.button__00{
+	position: relative;
+	top: 12em;
+	left: 12.5em;
+	padding: 1.2em;
+	background-color: purple;
+	color: orange;
+	border-radius: 16px;
+	box-shadow: 4px 8px 8px 0 #000;
+	text-shadow: 1px 1px 10px #000;
+}
+.header__h1--00{
+	font-size: 3em;
+	display: inline;
+	align-content: center;
+}
