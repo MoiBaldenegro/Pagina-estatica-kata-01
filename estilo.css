@@ -5,7 +5,7 @@
 }
 
 .header__nav{
-	background-color: purple;
+	background-color: #8338ec;
 	padding: 1em;	
 }
 .header__a00{
@@ -22,7 +22,7 @@
 	top: 1.5em;
 	font-size: 6em;
 	text-shadow: 2px 1px 1px #000;
-	color: purple;
+	color: #8338ec;
 }
 .section__h2{
 	position: relative;
@@ -30,7 +30,7 @@
 	text-align: justify;
 	left: 8.3em;
 	text-shadow: 1px 1px 1px #000;
-	color: purple;
+	color: #8338ec;
 
 }
 .button__00{
@@ -38,14 +38,13 @@
 	top: 12em;
 	left: 12.5em;
 	padding: 1.2em;
-	background-color: purple;
+	background-color: #8338ec;
 	color: orange;
 	border-radius: 16px;
 	box-shadow: 4px 8px 8px 0 #000;
 	text-shadow: 1px 1px 10px #000;
 }
-.header__h1--00{
+.header__h1{
 	font-size: 3em;
-	display: inline;
-	align-content: center;
+	text-align: center;
 }
