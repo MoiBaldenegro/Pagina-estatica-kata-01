@@ -91,9 +91,10 @@
 .article__p--00{
 	position: absolute;
 	margin-top: 1000px;
-	width: 80vw;
+	width: 70vw;
 	text-align: center;
 	text-align: justify;
+	margin-left: 2em;
 }
 .aside__00{
 	position: absolute;
@@ -108,4 +109,101 @@
 .aside__h3--00{
 	margin-bottom: 5vh;
 	font-size: 30px;
+}
+.article__a--00{
+	padding: 10px;
+	margin: 5em;
+	margin-bottom: 2em;
+	background-color: #8338ec;
+	color: #ffbe0b;
+	margin: 2em;
+}
+.article__a--00:hover{
+	padding: 8px;
+	background-color: #ffbe0b;
+	color: #8338ec;
+	border-style: solid;
+	border-color: #8338ec;
+	border-width: 2px;
+}
+/* AQUI LOS ESTILOS DE LA SECCION  UNO "BLOG"*/
+
+.header__h1--03{
+	width: 80vw;
+	text-align: center;	
+}
+.article__img--02{
+	position: absolute;
+	width: 70vw;
+	margin: 2em;
+}
+
+.a__02{
+	position: absolute;
+	margin-top: 750px;
+}
+.article__p--02{
+	position: absolute;
+	margin-top: 600px;
+	width: 70vw;
+	text-align: center;
+	text-align: justify;
+	margin-left: 2em;	
+}
+.article__a--02{
+	padding: 10px;
+	margin: 5em;
+	margin-bottom: 2em;
+	background-color: #8338ec;
+	color: #ffbe0b;
+	margin: 2em;
+}
+.article__a--02:hover{
+	padding: 8px;
+	background-color: #ffbe0b;
+	color: #8338ec;
+	border-style: solid;
+	border-color: #8338ec;
+	border-width: 2px;
+}
+
+/* AQUI LOS ESTILOS DE LA SECCION DOS "MI MUSICA"*/
+
+.header__h1--03{
+	width: 80vw;
+	text-align: center;
+}
+.article__img--00{
+	position: absolute;
+	width: 70vw;
+	margin: 2em;
+}
+.article__p--01{
+	position: absolute;
+	margin-top: 1000px;
+	width: 70vw;
+	text-align: center;
+	text-align: justify;
+	margin-left: 2em; 
+}
+.a__01{
+	position: absolute;
+	margin-top: 1150px;
+}
+
+.article__a--01{
+	padding: 10px;
+	margin: 5em;
+	margin-bottom: 2em;
+	background-color: #8338ec;
+	color: #ffbe0b;
+	margin: 2em;
+}
+.article__a--01:hover{
+	padding: 8px;
+	background-color: #ffbe0b;
+	color: #8338ec;
+	border-style: solid;
+	border-color: #8338ec;
+	border-width: 2px;
 }
