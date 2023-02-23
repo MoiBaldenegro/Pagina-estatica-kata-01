@@ -2,49 +2,110 @@
 	box-sizing: border-box;
 	padding: 0;
 	margin: 0;
+	font-family: 'Fugaz One', cursive;
 }
-
+/* AQUI TENEMOS LA PARTE DE ESTILO DE LA BARRA DE NAVEGACION */
 .header__nav{
 	background-color: #8338ec;
-	padding: 1em;	
+	padding: 15px;	
+	border-bottom: solid;
+	border-width: 2px;
+	border-color: #ffbe0b;
 }
 .header__a00{
-	color: whitesmoke;
-	position: relative;
-	left: 45em;
-	margin: 1em;
-	font-size: 1.08em;
-	padding: 1em;
-}
-.section__h1{
-	position: relative;
-	left: 2em;
-	top: 1.5em;
-	font-size: 6em;
-	text-shadow: 2px 1px 1px #000;
-	color: #8338ec;
-}
-.section__h2{
-	position: relative;
-	top: 6em;
-	text-align: justify;
-	left: 8.3em;
-	text-shadow: 1px 1px 1px #000;
-	color: #8338ec;
 
-}
-.button__00{
-	position: relative;
-	top: 12em;
-	left: 12.5em;
-	padding: 1.2em;
 	background-color: #8338ec;
-	color: orange;
-	border-radius: 16px;
-	box-shadow: 4px 8px 8px 0 #000;
-	text-shadow: 1px 1px 10px #000;
+	border-style: none;
+	color: #000;
+	position: relative;
+	left: 30em;
+	margin: 10px;
+	margin-right: 00px;
+	font-size: 26px;
+	text-decoration: none;
+	padding-left: 25px;
+	padding-right: 25px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-weight: 900;
+	border-top: solid;
+	
 }
+.header__a00:hover{
+	background-color: #ffbe0b;
+	
+}
+/* AQUI TENEMOS LA PARTE DE ESTILO DEL HEADER*/
+
 .header__h1{
-	font-size: 3em;
+	color: #000;
+	font-size: 6em;
+	margin: 100px 00px 00px 50px;
+}
+.header__h2{
+	color: #000;
+	font-size: 2em;
+	text-align: justify;
+	margin: 0px 100px 20px 50px;
+}
+.section__{
+	background-color: #8338ec;
+	
+}
+
+.button__00{
+	background-color: #8338ec;
+	position: absolute;
+	margin-left: 50px;
+	margin-top: 15px;
+	padding: 15px;
+	border-radius: 15px;
+	font-size: 20px;
+	color: #ffbe0b;
+	text-decoration: none;
+	border-style: solid;
+	border-color: #8338ec;
+}
+
+.button__00:hover{
+	background-color: #ffbe0b;
+	color: #8338ec;
+	border-style: solid;
+	border-color: #8338ec;
+}
+
+/* AQUI EMPEZAMOS CON EL ESTILO DE LA SECCION EMPEZAR*/
+.header__h1--02{
+	width: 80vw;
 	text-align: center;
+}
+.header__h2--00{
+	width: 80vw;
+	text-align: center;
+}
+.img__00{
+	position: absolute;
+	width: 70vw;
+	margin: 2em;
+}
+.article__p--00{
+	position: absolute;
+	margin-top: 1000px;
+	width: 80vw;
+	text-align: center;
+	text-align: justify;
+}
+.aside__00{
+	position: absolute;
+	margin-left: 77vw;
+	margin-right: 2vw;
+	margin-top: 8vh;
+}
+.a__00{
+	position: absolute;
+	margin-top: 1250px;
+}
+.aside__h3--00{
+	margin-bottom: 5vh;
+	font-size: 30px;
 }
