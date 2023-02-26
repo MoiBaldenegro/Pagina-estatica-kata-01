@@ -16,7 +16,7 @@
 
 	background-color: #8338ec;
 	border-style: none;
-	color: #000;
+	color: #ffbe0b;
 	position: relative;
 	left: 30em;
 	margin: 10px;
@@ -31,40 +31,52 @@
 	border-top: solid;
 	
 }
+.footer__h4{
+	color: #ffbe0b;
+	font-weight: 100;
+	margin-top: 14em;
+	margin-left: 5em;
+}
 .header__a00:hover{
-	background-color: #ffbe0b;
+	background-color: #000;
 	
 }
 /* AQUI TENEMOS LA PARTE DE ESTILO DEL HEADER*/
 
 .header__h1{
-	color: #000;
+	color: #ffbe0b;
 	font-size: 6em;
 	margin: 100px 00px 00px 50px;
 }
 .header__h2{
-	color: #000;
+	color: #ffbe0b;
 	font-size: 2em;
 	text-align: justify;
 	margin: 0px 100px 20px 50px;
 }
 .section__{
 	background-color: #8338ec;
+	border-color: #ffbe0b;
+	margin-left: 2em;
+	margin-right: 8em;
+	padding-bottom: 0,2em;
+	border-radius: 60px 0px 60px 0px;
 	
 }
 
 .button__00{
 	background-color: #8338ec;
 	position: absolute;
-	margin-left: 50px;
+	margin-left: 2em;
 	margin-top: 15px;
 	padding: 15px;
-	border-radius: 15px;
 	font-size: 20px;
 	color: #ffbe0b;
 	text-decoration: none;
 	border-style: solid;
-	border-color: #8338ec;
+	border-color: #ffbe0b;
+	border-radius: 30px 0px 30px 0px;
+
 }
 
 .button__00:hover{
@@ -200,6 +212,58 @@
 	margin: 2em;
 }
 .article__a--01:hover{
+	padding: 8px;
+	background-color: #ffbe0b;
+	color: #8338ec;
+	border-style: solid;
+	border-color: #8338ec;
+	border-width: 2px;
+}
+
+/* 	ACA LOS ESTILOS PARA LA SECCION TRES "DEVF"*/
+
+.header__h1--04{
+	width: 100vw;
+	text-align: center;
+	font-size: 3.5em;
+}
+.img__04{
+	position: absolute;
+	width: 20em;
+	margin-left: 60vw;
+	border-radius: 12px;
+	margin-top: 5em;
+}
+ .titulo__00{
+	position: absolute;
+	font-size: 2em;
+	width: 60vw;
+	height: 2em;
+	text-align: center;
+	margin-top: 6em;	
+ }
+
+ .parrafo__10{
+	margin-top: 30em;
+	margin-left: 5em;
+	margin-right: 5em;
+	text-align: justify;
+ }
+
+ .a__05{
+	position: absolute;
+	margin-top: 100px;
+	margin-left: 35em;
+ }
+ .article__a--05{
+	padding: 10px;
+	margin: 5em;
+	margin-bottom: 2em;
+	background-color: #8338ec;
+	color: #ffbe0b;
+	margin: 10px;	
+ }
+ .article__a--05:hover{
 	padding: 8px;
 	background-color: #ffbe0b;
 	color: #8338ec;
