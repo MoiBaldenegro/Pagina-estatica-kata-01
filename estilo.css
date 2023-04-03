@@ -271,3 +271,30 @@
 	border-color: #8338ec;
 	border-width: 2px;
 }
+.section__h2--tecnologias{
+	font-size: 3em;
+	text-align: center;
+	margin: 1em;
+}
+
+.section__div00--img{
+	width: 200px;
+	margin: 2em;
+}
+.section__div00{
+	display: inline-block;
+	margin: 0px 0px 0px 25em;
+}
+.section__h3--redes-sociales{
+	font-size: 3em;
+	text-align: center;
+	margin: 1em;	
+}
+.section__div01--img{
+	width: 200px;
+	margin: 2em;
+}
+.section__div01{
+	display: inline-block;
+	margin: 0px 0px 0px 25em;
+}
